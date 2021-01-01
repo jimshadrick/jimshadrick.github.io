@@ -21,33 +21,6 @@ exclude:
   - LICENSE.md
   - README.md
 
-# social
-social:
-  email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: 
-  flickr:
-  github: jimshadrick
-  google_plus:
-  instagram:
-  keybase:
-  linkedin: https://www.linkedin.com/in/jimshadrick 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: jcshadrick
-  vimeo:
-  wordpress:
-  youtube:
-  default_txt: "Follow On"
-
-
 sass:
   sass_dir: _sass
   style: :compressed
