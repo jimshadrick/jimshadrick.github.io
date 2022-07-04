@@ -21,10 +21,10 @@ From Michael's article:
 
 > In this beginner guide, you’ll create a Hugo website from scratch and publish the website on GitHub Pages. You’ll configure Cloudflare’s DNS and utilize its caching capabilities to optimize page speeds. Finally, implementing automated deployments with GitHub Pages will enable you to publish new content on your site easily.
 
-## Wow, It Worked!
+## Finally Results
 There is a lot of detail that is provided in this guide, which is good but does require you to stop and understand what each step is doing. Instead of blindly typing the command lines I took the time to read the additional commentary about each step and understand the context of what was being done. This lengthened the time it took for me to complete the setup and deployment but will pay dividends down the road if I need to deploy another site.
 
-I elected to skip the sections on setting up and connecting the site to CloudFlare, but I was able to complete all of the configuration and deployment using another Hugo theme [LoveIt](https://github.com/dillonzq/LoveIt).
+I elected to skip the sections on setting up and connecting the site to CloudFlare, but I was able to complete all of the configuration and deployment steps using another Hugo theme [LoveIt](https://github.com/dillonzq/LoveIt). 
 
-Now I need to spend some more time with Hugo to understand the content structure and how to tailor the site to my preferences. 
+Now I need to spend some more time with Hugo to understand the content structure and how to tailor the site to my preferences. I will also come back later once I have a domain name and integrate the site with CloudFlare based on Michael's article.
 
