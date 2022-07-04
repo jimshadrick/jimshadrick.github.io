@@ -65,6 +65,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
+  [[menu.main]]
+      weight = 4
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+
+
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -94,11 +104,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Jim Shadrick "
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
-      post = ""
+      post = "<i class='far fa-solid fa-terminal'></i>"
       # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
       typeit = false
 
@@ -189,7 +199,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Don't be passive. Act. Have interests. Don't just let life happen to you."
+      subtitle = "Technophile, investor, developer journeyman and recovering CPA."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
