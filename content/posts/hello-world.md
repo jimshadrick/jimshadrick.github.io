@@ -2,7 +2,7 @@
 title: "Hello World"
 description: "The first post of this blog"
 date: 2022-07-03T17:27:54-05:00
-draft: true
+draft: false
 tags:
   - "csharp"
 ---
