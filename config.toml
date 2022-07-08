@@ -197,9 +197,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.png"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "Hi I'm Jim"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "'If you want to improve, be content to be thought foolish and stupid' - Epictetus"
+      subtitle = "Articles and musings on technology, investing and other topics."
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
