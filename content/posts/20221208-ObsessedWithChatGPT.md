@@ -17,7 +17,7 @@ As one who tries to stay up with technology trends, I was blown away by just how
 
 OpenAI, an AI research laboratory, recently released [ChatGPT](https://openai.com/blog/chatgpt/) its prototype AI chatbot to the public, and it has gained a lot of traction among users for its human-like, detailed answers to inquiries. It interacts in a conversational way with plain english questions that are provided to it. The dialogue format makes it possible for ChatGPT to also answer followup questions, admit its mistakes, challenge incorrect premises, and even reject inappropriate requests.
 
-## Some examples of what ChatGPT can do
+## Some ChatGPT use cases
 
 ChatGPT was released to the public and as of this writing it has crossed over 1 million users. There have been so many use cases I have seen which people have come up with. Below are just a few of them.
 
@@ -30,6 +30,52 @@ ChatGPT was released to the public and as of this writing it has crossed over 1 
 - **Creative liberty** - ChatGPT has been used to write essays, music, sitcom/movie scripts and jokes. It can also serve as an entry point for research.
 
 - **Other ideas** - There are a host of use cases other than these primary ones above. For example one [TikTk creator](https://www.tiktok.com/@zoltronic/video/7174948312146038062?_r=1&_t=8Y21f7DPlZG&is_from_webapp=v1&item_id=7174948312146038062) had ChatGPT create a list of dinners for the week for picky eaters, then asked it to put that data into tables to be easier to read, then asked it to put together a shopping list for those meals!
+
+## Some examples
+
+You can ask ChatGPT a question, and it’ll answer it not only to the best of its abilities, but as if a human wrote the response, sometime’s even getting a little wordy. For example If you ask it to "_convert 75 degrees Fahrenheit to Celsius_", you might get an answer like this:
+
+> To convert 75 degrees Fahrenheit to Celsius, subtract 32 from the temperature in degrees Fahrenheit and then multiply the result by 5/9. In this case, the conversion would be (75 - 32) \* 5/9 = 23.8889 degrees Celsius.
+
+For something a little more creative and inspiring, I asked ChatGPT to "_Write a sad pop song in the style of Taylor Swift about the smallest kitten in the litter befriending a mouse. After growing close, they are torn apart because they are just too different, but they retain fond, if painful, memories of their time together. Include a chorus and a bridge._"
+
+It sent back the following lyrics:
+
+> Verse 1:
+> There was a kitten, oh so small
+> Born the runt of a litter six
+> But she didn't let that bring her down
+> She fought to survive and to fix
+>
+> Chorus:
+> Her eyes upon a little mouse
+> Scurrying around the barn
+> They became friends, against all odds
+> But they knew they could never be more than that
+>
+> Verse 2:
+> They played and they laughed and they ran
+> Through the fields and the hay
+> But they knew that they could never stay
+> For they were too different, in every way
+>
+> Bridge:
+> The kitten longed to be a cat
+> To roam and to hunt and to bask in the sun
+> But the mouse stayed close to the ground
+> To hide and to sneak and to have some fun
+>
+> Verse 3:
+> One day they were torn apart
+> The kitten was taken to a new home
+> The mouse was left all alone
+> But they both held on to the memories of their time together
+>
+> Chorus:
+> They may have been different, that little mouse and kitten
+> But they shared a bond that will never be broken
+> Though they may be apart, their memories remain
+> Of the friendship they had, before it all came to an end.
 
 There are many other examples besides these. The possibilities are virtually endless.
 
