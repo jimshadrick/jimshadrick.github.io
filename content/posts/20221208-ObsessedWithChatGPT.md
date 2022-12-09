@@ -59,8 +59,7 @@ It sent back the following lyrics:
 > But they knew that they could never stay
 > For they were too different, in every way
 >
-> Bridge:
-> The kitten longed to be a cat
+> Bridge:The kitten longed to be a cat
 > To roam and to hunt and to bask in the sun
 > But the mouse stayed close to the ground
 > To hide and to sneak and to have some fun
