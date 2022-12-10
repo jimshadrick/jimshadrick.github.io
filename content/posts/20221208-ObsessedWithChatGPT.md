@@ -41,40 +41,41 @@ For something a little more creative and inspiring, I asked ChatGPT to "_Write a
 
 It sent back the following lyrics:
 
-> Verse 1:
-> There was a kitten, oh so small
-> Born the runt of a litter six
-> But she didn't let that bring her down
-> She fought to survive and to fix
+> Verse 1:\
+> There was a kitten, oh so small\
+> Born the runt of a litter six\
+> But she didn't let that bring her down\
+> She fought to survive and to fix\
 >
-> Chorus:
-> Her eyes upon a little mouse
-> Scurrying around the barn
-> They became friends, against all odds
-> But they knew they could never be more than that
+> Chorus:\
+> Her eyes upon a little mouse\
+> Scurrying around the barn\
+> They became friends, against all odds\
+> But they knew they could never be more than that\
 >
-> Verse 2:
-> They played and they laughed and they ran
-> Through the fields and the hay
-> But they knew that they could never stay
-> For they were too different, in every way
+> Verse 2:\
+> They played and they laughed and they ran\
+> Through the fields and the hay\
+> But they knew that they could never stay\
+> For they were too different, in every way\
 >
-> Bridge:The kitten longed to be a cat
-> To roam and to hunt and to bask in the sun
-> But the mouse stayed close to the ground
-> To hide and to sneak and to have some fun
+> Bridge:\
+> The kitten longed to be a cat\
+> To roam and to hunt and to bask in the sun\
+> But the mouse stayed close to the ground\
+> To hide and to sneak and to have some fun\
 >
-> Verse 3:
-> One day they were torn apart
-> The kitten was taken to a new home
-> The mouse was left all alone
-> But they both held on to the memories of their time together
+> Verse 3:\
+> One day they were torn apart\
+> The kitten was taken to a new home\
+> The mouse was left all alone\
+> But they both held on to the memories of their time together\
 >
-> Chorus:
-> They may have been different, that little mouse and kitten
-> But they shared a bond that will never be broken
-> Though they may be apart, their memories remain
-> Of the friendship they had, before it all came to an end.
+> Chorus:\
+> They may have been different, that little mouse and kitten\
+> But they shared a bond that will never be broken\
+> Though they may be apart, their memories remain\
+> Of the friendship they had, before it all came to an end.\
 
 There are many other examples besides these. The possibilities are virtually endless.
 
